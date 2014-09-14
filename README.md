@@ -68,6 +68,8 @@ Tent.cover(Rails.logger, false) do |logger|
 end
 ```
 
+The internal buffer is synchonised across threads.
+
 TODO
 =====
 
