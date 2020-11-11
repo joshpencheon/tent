@@ -1,4 +1,4 @@
-tent [![Build Status](https://travis-ci.org/joshpencheon/tent.svg?branch=master)](https://travis-ci.org/joshpencheon/tent) [![Gem Version](https://badge.fury.io/rb/tent.svg)](http://badge.fury.io/rb/tent)
+tent [![Build Status](https://github.com/joshpencheon/tent/workflows/tests/badge.svg)](https://github.com/joshpencheon/tent/actions?query=workflow%3Atests) [![Gem Version](https://badge.fury.io/rb/tent.svg)](http://badge.fury.io/rb/tent)
 ======
 
 Tent is a simple library for buffering calls to an underlying object conditionally.
